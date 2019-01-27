@@ -1,6 +1,6 @@
 from recommonmark.parser import CommonMarkParser
 
-project = u'Data science book'
+project = u'20 methods of the data scientist and the mathematics behind them'
 copyright = u'2019, Aapeli Vuorinen and Yoni Nazarathy'
 author = u'Aapeli Vuorinen and Yoni Nazarathy'
 
