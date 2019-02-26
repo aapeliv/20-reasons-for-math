@@ -1,1 +1,1 @@
-# Method 8
+# Logistic regression and GLM

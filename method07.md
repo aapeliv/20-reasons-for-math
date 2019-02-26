@@ -1,1 +1,1 @@
-# Method 7
+# General least squares

@@ -1,1 +1,1 @@
-# Method 9
+# Clustering (k-means)
