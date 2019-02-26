@@ -19,6 +19,6 @@
 1. [Fourier analysis of signals](method15.md)
 1. [Deep neural networks](method16.md)
 1. [Data compression](method17.md)
-1. [Dynamic programming and reinforcment learning](method18.md)
+1. [Dynamic programming and reinforcement learning](method18.md)
 1. [Linear programming](method19.md)
 1. [Scheduling, Knapsack and Integer programming](method20.md)
