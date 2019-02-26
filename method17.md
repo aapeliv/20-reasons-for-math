@@ -1,1 +1,1 @@
-# Method 17
+# Data compression

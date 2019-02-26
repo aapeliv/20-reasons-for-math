@@ -1,1 +1,1 @@
-# Method 15
+# Fourier analysis of signals

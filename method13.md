@@ -1,1 +1,1 @@
-# Method 13
+# Textual and categorical classification

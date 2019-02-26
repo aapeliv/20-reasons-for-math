@@ -1,1 +1,1 @@
-# Method 10
+# PCA and data-reduction

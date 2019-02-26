@@ -1,1 +1,1 @@
-# Method 18
+# Dynamic programming and reinforcment learning

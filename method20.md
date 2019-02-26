@@ -1,1 +1,1 @@
-# Method 20
+# Scheduling, Knapsack and Integer programming

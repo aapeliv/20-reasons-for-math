@@ -1,1 +1,1 @@
-# Method 14
+# Convolutions filtering
