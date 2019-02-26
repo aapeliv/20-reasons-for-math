@@ -1,1 +1,1 @@
-# Method 2
+# Static and dynamic summary statistics

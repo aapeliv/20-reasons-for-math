@@ -1,1 +1,1 @@
-# Method 4
+# Analysis of multivariate distributions

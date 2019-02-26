@@ -1,1 +1,1 @@
-# Method 3
+# Analysis of univariate distributions

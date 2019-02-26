@@ -1,1 +1,1 @@
-# Method 5
+# Analysis of covariance and correlation
