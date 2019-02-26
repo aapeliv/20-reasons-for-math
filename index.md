@@ -2,7 +2,7 @@
 
 # Contents
 
-1. [Tuples in relational databases](method01.md)
+1. [Relational databases and their algorithms ](method01.md)
 1. [Static and dynamic summary statistics](method02.md)
 1. [Analysis of univariate distributions](method03.md)
 1. [Analysis of multivariate distributions](method04.md)
