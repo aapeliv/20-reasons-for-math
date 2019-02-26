@@ -1,6 +1,6 @@
 # Relational databases and their algorithms 
 
-### Use in science:
+### Use in data science:
 
 * Almost everywhere
 
