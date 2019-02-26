@@ -1,5 +1,2 @@
-# Method 1
+# Tuples in relational databases 
 
-$$ \int_0^x f(u) \, du $$
-
-and more...
