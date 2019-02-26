@@ -10,4 +10,4 @@
 
 * Basic algebra and manipulation of (finite series)
 * Working with integrals in cases of continuous time
-* Inequalities help understating in certain times
+* Inequalities

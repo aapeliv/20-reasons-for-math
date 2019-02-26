@@ -1,4 +1,4 @@
-# Passing a line through a cloud of points
+# Finding the best line through a cloud of points
 
 ### Use in data science:
 

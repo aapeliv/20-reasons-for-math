@@ -7,7 +7,7 @@
 1. [Analysis of univariate distributions](method03.md)
 1. [Analysis of multivariate distributions](method04.md)
 1. [Analysis of covariance and correlation](method05.md) 
-1. [Passing a line through a cloud of points](method06.md)
+1. [Finding the best line through a cloud of points](method06.md)
 1. [General least squares](method07.md) 
 1. [Logistic regression and GLM](method08.md)
 1. [Clustering (k-means)](method09.md)
