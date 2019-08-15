@@ -12,7 +12,7 @@
 * Working with integrals in cases of continuous time
 * Inequalities
 
-$$
+\[
 x \le y
-$$
+\]
 
