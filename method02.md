@@ -11,3 +11,8 @@
 * Basic algebra and manipulation of (finite series)
 * Working with integrals in cases of continuous time
 * Inequalities
+
+$$
+x \le y
+$$
+
